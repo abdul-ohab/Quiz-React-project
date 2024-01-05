@@ -1,0 +1,10 @@
+nav{
+    background-color: rgb(74, 123, 124);
+}
+.link a{
+    margin: 15px;
+}
+.active{
+    border-bottom: 2px solid gainsboro;
+    color: gainsboro;
+}
